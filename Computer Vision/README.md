@@ -16,7 +16,9 @@ The rim of the basket is approximately **elliptical**. The approach is:
 4. Fit an ellipse  
 
 ---
-Task 1: Center Detection of Spinning Archery Board
+![Basket Rim Detection](Basket.jpeg)
+---
+Task 2: Center Detection of Spinning Archery Board
 
 Objective
 Detect the center of a spinning archery board in a video by fitting an **ellipse** using OpenCV.
